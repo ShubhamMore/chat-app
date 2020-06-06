@@ -1,0 +1,13 @@
+node_modules
+images/*
+!images/.gitkeep 
+media/*
+!media/.gitkeep 
+toppers/*
+!toppers/.gitkeep
+lectureContents/*
+!lectureContents/.gitkeep
+image-categories/*
+!image-categories/.gitkeep
+config/dev-env.env
+gmail-api-client_secret.json
