@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const compression = require('compression');
 var cors = require('cors');
 
-// require('./database/mongoose');
+require('./database/mongoose');
 
 const routers = require('./routers/router.route');
 
